@@ -1,4 +1,1 @@
-Sandboxed-JS
-============
-
-JavaScript specs for a sandboxed web
+Thoughts on a [sandboxed web](https://github.com/fabien-d/Sandboxed-JS/issues/1)
